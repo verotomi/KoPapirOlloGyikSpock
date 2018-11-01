@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kő - Papír - Olló - Gyík - Spock</string>
+    <string name="stone">Kő</string>
+    <string name="paper">Papír</string>
+    <string name="scissors">Olló</string>
+    <string name="lizard">Gyík</string>
+    <string name="spock">Spock</string>
+    <string name="your_choice">A te választásod</string>
+    <string name="computers_choice">A gép választása</string>
+    <string name="standing">Eredmény: </string>
+    <string name="people">Ember: </string>
+    <string name="computer">Computer: </string>
+    <string name="stone_stronger_than_scissors">A kő széttöri az ollót!</string>
+    <string name="stone_stronger_than_lizard">A kő agyonüti a gyíkot!</string>
+    <string name="paper_stronger_than_stone">A papír letakarja a követ!</string>
+    <string name="paper_stronger_than_spock">A papír cáfolja Spockot!</string>
+    <string name="scissors_stronger_than_paper">Az olló elvágja a papírt!</string>
+    <string name="scissors_stronger_than_lizard">Az olló lefejezi a gyíkot!</string>
+    <string name="lizard_stronger_than_spock">A gyík megmarja Spockot!</string>
+    <string name="lizard_stronger_than_paper">A gyík megeszi a papírt!</string>
+    <string name="spock_stronger_than_scissors">Spock eltöri az ollót!</string>
+    <string name="spock_stronger_than_stone">Spock feloldja a követ!</string>
+    <string name="winner_people">Te nyertél!</string>
+    <string name="winner_computer">A gép nyert!</string>
+    <string name="winner_noone">Döntetlen! Nincs nyertes!</string>
+    <string name="text_Copyright">© 2018 - Verovszki Tamás"</string>
+    <string name="buttonSize">75dp</string> <!-- Ez így nem működött, hibaüzenet nélkül leállt a program-->
+</resources>
